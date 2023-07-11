@@ -1,2 +1,4 @@
 **/.terraform**
 README.MD
+terraform.tfstate**
+.env
